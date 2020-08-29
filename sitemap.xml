@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://app.netlify.com/sites/boring-kirch-c66f14/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://app.netlify.com/sites/boring-kirch-c66f14/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://app.netlify.com/sites/boring-kirch-c66f14/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
